@@ -1,7 +1,8 @@
 <?php
 /**
 * Auto Get Email
-* Yplitgroup
+* Author: Van-Duyet Le <lvduit08@gmail.com>
+* Homepage: http://lvduit.com
 * 20/2/2012
 */
 /**
@@ -12,10 +13,6 @@
 * later. That will increase email result too.
 * Email will print in result page. You can set 
 * crontjob for this tool.
-* 
-* If you want donate for me. Please email 
-* duyet2000@gmail.com
-* Website: http://lemon9x.com
 */
 // ### C Config ###
 $C = new stdClass;
